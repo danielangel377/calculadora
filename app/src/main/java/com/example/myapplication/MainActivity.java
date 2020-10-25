@@ -17,11 +17,11 @@ public class MainActivity extends AppCompatActivity  {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+/*
         num1 = (EditText) findViewById(R.id.numero1);
         num2 = (EditText) findViewById(R.id.numero2);
-
-    }
+*/
+    } /*
     public void suma(View view){
         int res  =0;
         String n1 = num1.getText().toString();
@@ -100,5 +100,5 @@ public class MainActivity extends AppCompatActivity  {
             Toast.makeText(this,"La casillas estan limpias",Toast.LENGTH_SHORT).show();
         }
     }
-
+*/
 }

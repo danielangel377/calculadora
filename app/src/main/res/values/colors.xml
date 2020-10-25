@@ -3,4 +3,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="fondocuadro">#922196F3</color>
+    <color name="Esquineros">#010F5E</color>
+    <color name="black">#92FFFFFF</color>
+    <color name="blanco">#FFFFFF</color>
 </resources>
