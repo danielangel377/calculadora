@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+import android.widget.Toast;
 
 public class splashactivity extends AppCompatActivity {
 
@@ -14,6 +15,7 @@ public class splashactivity extends AppCompatActivity {
         setContentView(R.layout.activity_splashactivity);
 
         init();
+
     }
 
     private void init() {
